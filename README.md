@@ -26,12 +26,12 @@ This Simple ToDo App is an Android application designed to help users manage the
 - Special thanks to the tutorial series on YouTube: "To Do List App Android Studio Tutorial".
 
 ## Screenshots
-1. **Add a Task**: Click the "+" button to create a new task.
+1. **Example of Tasks**: An example of tasks for a student.
    - ![Add Task](Screenshots/Screenshot_20240821_184118.png)
-2. **Edit a Task**: Tap on an existing task to edit its details.
+2. **Add a Task**: Click the "+" button to create a new task.
    - ![Edit Task](Screenshots/Screenshot_20240821_184231.png)
-3. **Delete a Task**: Swipe a task to the left or right to delete it.
+3. **Edit a Task**: Tap on an existing task to edit its details.
    - ![Delete Task](Screenshots/Screenshot_20240821_184515.png)
-4. **Example of Tasks**: An example of tasks for a student.
+4. **Delete a Task**: Swipe a task to the left or right to delete it.
    - ![Example Tasks](Screenshots/Screenshot_20240821_184542.png)
 
