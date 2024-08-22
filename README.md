@@ -33,9 +33,8 @@ This Simple ToDo App is an Android application designed to help users manage the
 2. **Add a Task**: Click the "+" button to create a new task.
    - <img src="Screenshots/Screenshot_20240821_184231.png" alt="Edit Task" width="300"/>
 
-
-| **Edit a Task** | **Delete a Task** |
+| 3. **Edit a Task** | 4. **Delete a Task** |
 |-----------------|--------------------|
-| Tap on an existing task to edit its details. | Swipe a task to the left or right to delete it. |
+| **Swipe Right to Edit** | **Swipe Left to Delete** |
 | <img src="Screenshots/Screenshot_20240821_184515.png" alt="Edit Task" width="300"/> | <img src="Screenshots/Screenshot_20240821_184542.png" alt="Delete Task" width="300"/> |
 
